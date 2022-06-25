@@ -1,2 +1,0 @@
-# companyprofile
-Silahkan dikembangkan lagi
